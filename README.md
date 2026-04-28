@@ -1,6 +1,6 @@
 # 🎲 Simulación Yahtzee — Montecarlo
 
-**. Simulación · PREICA2601B020049**  
+**Simulación · PREICA2601B020049**  
 
 ---
 
