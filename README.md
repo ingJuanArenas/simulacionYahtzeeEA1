@@ -1,7 +1,6 @@
 # 🎲 Simulación Yahtzee — Montecarlo
 
-**Evaluación de Actividad 1 · Simulación · PREICA2601B020049**  
-![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Colab](https://img.shields.io/badge/Google-Colab-orange) ![Método](https://img.shields.io/badge/Método-Montecarlo-green)
+**. Simulación · PREICA2601B020049**  
 
 ---
 
